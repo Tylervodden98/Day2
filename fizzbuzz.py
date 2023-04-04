@@ -3,7 +3,7 @@ count = int(input("Please enter an integer: "))
 
 fizzbuzz_list = []
 
-#Fizzbuzz
+# Fizzbuzz
 for number in range(count):
     if number == 0:
         fizzbuzz_list.append(number)
